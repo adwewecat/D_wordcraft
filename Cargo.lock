@@ -9305,7 +9305,7 @@ dependencies = [
  "craft-tiff",
  "craft-xml",
  "png 0.18.1",
- "quick-xml 0.41.0",
+ "quick-xml 0.42.0",
  "rayon",
  "serde",
  "serde_json",
